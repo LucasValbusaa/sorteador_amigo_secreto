@@ -3,6 +3,7 @@ import { useState } from "react";
 import Card from "../componentes/Card";
 import { useListaDeParticipantes } from "../state/hook/useListaDeParticipantes";
 import { useResultadoSorteio } from "../state/hook/useResultadoSorteio";
+import aviao from "assets/aviao.png";
 
 import "./Sorteio.css";
 
@@ -49,7 +50,7 @@ const Sorteio = () => {
         )}
         <footer className="sorteio">
           <img
-            src="/imagens/aviao.png"
+            src={aviao}
             className="aviao"
             alt="Um desenho de um avião de papel"
           />
