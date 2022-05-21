@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/sorteador-de-amigo-secreto/static/css/main.657b0725.css",
-    "main.js": "/sorteador-de-amigo-secreto/static/js/main.8ab3bb76.js",
-    "static/media/logo-pequeno.png": "/sorteador-de-amigo-secreto/static/media/logo-pequeno.4dedcb0b0b7b82c4fac3.png",
-    "index.html": "/sorteador-de-amigo-secreto/index.html",
-    "main.657b0725.css.map": "/sorteador-de-amigo-secreto/static/css/main.657b0725.css.map",
-    "main.8ab3bb76.js.map": "/sorteador-de-amigo-secreto/static/js/main.8ab3bb76.js.map"
+    "main.css": "/LucasValbusaa/sorteador_amigo_secreto/static/css/main.4e5df44b.css",
+    "main.js": "/LucasValbusaa/sorteador_amigo_secreto/static/js/main.8ab3bb76.js",
+    "static/media/logo-pequeno.png": "/LucasValbusaa/sorteador_amigo_secreto/static/media/logo-pequeno.4dedcb0b0b7b82c4fac3.png",
+    "index.html": "/LucasValbusaa/sorteador_amigo_secreto/index.html",
+    "main.4e5df44b.css.map": "/LucasValbusaa/sorteador_amigo_secreto/static/css/main.4e5df44b.css.map",
+    "main.8ab3bb76.js.map": "/LucasValbusaa/sorteador_amigo_secreto/static/js/main.8ab3bb76.js.map"
   },
   "entrypoints": [
-    "static/css/main.657b0725.css",
+    "static/css/main.4e5df44b.css",
     "static/js/main.8ab3bb76.js"
   ]
 }
