@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/LucasValbusaa/sorteador_amigo_secreto/static/css/main.4e5df44b.css",
-    "main.js": "/LucasValbusaa/sorteador_amigo_secreto/static/js/main.8ab3bb76.js",
-    "static/media/logo-pequeno.png": "/LucasValbusaa/sorteador_amigo_secreto/static/media/logo-pequeno.4dedcb0b0b7b82c4fac3.png",
-    "index.html": "/LucasValbusaa/sorteador_amigo_secreto/index.html",
-    "main.4e5df44b.css.map": "/LucasValbusaa/sorteador_amigo_secreto/static/css/main.4e5df44b.css.map",
-    "main.8ab3bb76.js.map": "/LucasValbusaa/sorteador_amigo_secreto/static/js/main.8ab3bb76.js.map"
+    "main.css": "./static/css/main.e35520f2.css",
+    "main.js": "./static/js/main.8ab3bb76.js",
+    "static/media/logo-pequeno.png": "./static/media/logo-pequeno.4dedcb0b0b7b82c4fac3.png",
+    "index.html": "./index.html",
+    "main.e35520f2.css.map": "./static/css/main.e35520f2.css.map",
+    "main.8ab3bb76.js.map": "./static/js/main.8ab3bb76.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e5df44b.css",
+    "static/css/main.e35520f2.css",
     "static/js/main.8ab3bb76.js"
   ]
 }
