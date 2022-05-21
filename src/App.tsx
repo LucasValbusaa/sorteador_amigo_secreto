@@ -1,19 +1,19 @@
-import React from 'react';
-import { BrowserRouter, Route, Routes } from 'react-router-dom';
-import { RecoilRoot } from 'recoil';
-import Configuracao from './paginas/Configuracao';
-import Sorteio from './paginas/Sorteio';
+import React from "react";
+import { Route, Routes, HashRouter } from "react-router-dom";
+import { RecoilRoot } from "recoil";
+import Configuracao from "./paginas/Configuracao";
+import Sorteio from "./paginas/Sorteio";
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <RecoilRoot>
         <Routes>
-          <Route path='/' element={<Configuracao />}/>
-          <Route path='/sorteio' element={<Sorteio />}/>
+          <Route path="/" element={<Configuracao />} />
+          <Route path="/sorteio" element={<Sorteio />} />
         </Routes>
       </RecoilRoot>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
