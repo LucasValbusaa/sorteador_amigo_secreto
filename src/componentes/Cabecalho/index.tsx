@@ -1,5 +1,5 @@
 import "./estilos.css";
-import participante from "../../../public/imagens/participante.png";
+import participante from "assets/participante.png";
 
 const Cabecalho = () => {
   return (
