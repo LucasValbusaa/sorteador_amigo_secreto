@@ -4,6 +4,10 @@
 
 Uma aplicação para sorteio de amigo secreto, utilizando React com testes automaziados(Jest).
 
+## 🌐 Visualizar
+
+Basta acessar o site [Clicando aqui](https://lucasvalbusaa.github.io/sorteador_amigo_secreto/)
+
 ### 📝 Clone e uso
 
 ```bash
